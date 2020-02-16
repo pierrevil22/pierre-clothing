@@ -2,7 +2,7 @@
 
 https://pierre-clothing.herokuapp.com/
 
-https://github.com/pierrevil22/pierre-clothing/issues/1#issue-565970825
+![UNADJUSTEDNONRAW_thumb_1dc](https://user-images.githubusercontent.com/46546551/74612975-4a6c7000-50d8-11ea-8eef-bd586e8eb9a6.jpg)
 
 This is my E-commerce website with many different feature such as
 
