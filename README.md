@@ -2,6 +2,8 @@
 
 https://pierre-clothing.herokuapp.com/
 
+https://github.com/pierrevil22/pierre-clothing/issues/1#issue-565970825
+
 This is my E-commerce website with many different feature such as
 
 - Navigation and routing that takes the user to different pages of categories of items.
